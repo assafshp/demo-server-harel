@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "life insurance"
+    },
+    {
+      "id": 2,
+      "title": "car insurance"
+    },
+    {
+      "id": 3,
+      "title": "health insurance"
+    }
+  ]
+}
