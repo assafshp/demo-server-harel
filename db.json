@@ -12,5 +12,151 @@
       "id": 3,
       "title": "health insurance"
     }
-  ]
+  ],
+  "items": [
+        {
+            "mispar_sidrati": 7,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל פנסיה כללית"
+        },
+        {
+            "mispar_sidrati": 8,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "גילעד ריווחית"
+        },
+        {
+            "mispar_sidrati": 9,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "גילעד כללית"
+        },
+        {
+            "mispar_sidrati": 32,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "העל קרן פנסיה וותיקה"
+        },
+        {
+            "mispar_sidrati": 2,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל פנסיה"
+        },
+        {
+            "mispar_sidrati": 3,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "עדי"
+        },
+        {
+            "mispar_sidrati": 4,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "גבייה עתידית"
+        },
+        {
+            "mispar_sidrati": 5,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל מנוף פנסיה"
+        },
+        {
+            "mispar_sidrati": 6,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "עתידית אישית"
+        },
+        {
+            "mispar_sidrati": 10,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "קופ\"ג למשרתי הקבע בצה\"ל"
+        },
+        {
+            "mispar_sidrati": 11,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "עתידית קופת פנסיה"
+        },
+        {
+            "mispar_sidrati": 31,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "חברה מנהלת פנסיה"
+        },
+        {
+            "mispar_sidrati": 30,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "חברה מנהלת גמל"
+        },
+        {
+            "mispar_sidrati": 14,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל קופת גמל"
+        },
+        {
+            "mispar_sidrati": 15,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל קרן השתלמות"
+        },
+        {
+            "mispar_sidrati": 16,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "קרן חיסכון צבא קבע קרן השתלמות"
+        },
+        {
+            "mispar_sidrati": 21,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל גמל להשקעה"
+        },
+        {
+            "mispar_sidrati": 24,
+            "mone_manot": null,
+            "rehov": null,
+            "mispar_bait": null,
+            "kod_ishuv": null,
+            "shem_keren": "הראל חסכון לילד"
+        }
+    ]
 }
